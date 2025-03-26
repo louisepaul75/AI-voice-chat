@@ -16,7 +16,7 @@ If you have any questions about the model or the project, you can join our [disc
 
 ## Demo
 
-https://github.com/WeberJulian/AI-voice-chat/assets/17219561/2be20ec1-fa5e-4c26-83ec-c074357f3905
+https://github.com/louisepaul75/AI-voice-chat/assets/demo.mp4
 
 ## Installation
 
