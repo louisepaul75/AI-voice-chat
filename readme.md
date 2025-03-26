@@ -15,7 +15,7 @@ The XTTS v2 model is from the [coqui-TTS](https://github.com/coqui-ai/TTS).
 
 ## Demo
 
-https://github.com/louisepaul75/AI-voice-chat/assets/demo.mp4
+https://drive.google.com/file/d/17zMyvvUyT62g8ddp2hop1F3afWmjMvn-/view?usp=sharing
 
 ## Installation
 
